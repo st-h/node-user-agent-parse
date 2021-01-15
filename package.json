@@ -11,9 +11,6 @@
     "email": "jujhar@jujhar.com"
   },
   "main": "index",
-  "engines": {
-    "node": "^8"
-  },
   "keywords": [
     "browser",
     "parse",
